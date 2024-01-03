@@ -1,0 +1,1 @@
+# yourls-plugin-forward-query-strings
